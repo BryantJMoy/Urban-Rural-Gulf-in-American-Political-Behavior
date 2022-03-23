@@ -1,5 +1,5 @@
 # Urban-Rural Gulf in American Political Behavior
- Replication Data The Urban-Rural Gulf in American Political Behavior
+ Replication Data: The Urban-Rural Gulf in American Political Behavior
  by: James Gimpel, Nathan Lovin, Bryant Moy, and Andrew Reeves
  
  The article can be found at the following website: https://link.springer.com/article/10.1007/s11109-020-09601-w
